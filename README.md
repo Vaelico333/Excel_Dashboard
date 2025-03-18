@@ -1,19 +1,19 @@
-# Tendencias globales de la música en streaming
+# Tendencias globales de la música en streaming :guitar: :trumpet:
 
-### Análisis y comprensión de los oyentes
+### :bar_chart: Análisis y comprensión de los oyentes
 
-## Descripción
+## :scroll: Descripción
 
-## Estructura
+## :spiral_notepad: Estructura
 
-## Instalación y requisitos
+## :computer: Instalación y requisitos
 
-## Resultados y conclusiones
+## :chart_with_upwards_trend: Resultados y conclusiones
 
-## Contribuciones
+## :hand: Contribuciones
 
 Al ser un proyecto tipo examen, no se aceptan contribuciones.
 
-## Autores y agradecimientos
+## :fountain_pen: Autores y agradecimientos
 
 Autor: [Darío Zoreda](https://www.linkedin.com/in/dar%C3%ADo-zoreda-gallego/)
