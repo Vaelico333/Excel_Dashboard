@@ -1,6 +1,6 @@
 # Tendencias globales de la música en streaming :guitar: :trumpet:
 
-### :bar_chart: Análisis y comprensión de los oyentes
+### :bar_chart: Análisis y comprensión de las preferencias de los oyentes
 
 ## :scroll: Descripción
 
