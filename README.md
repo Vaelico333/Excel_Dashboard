@@ -4,11 +4,19 @@
 
 ## :scroll: Descripción
 
+En este trabajo, analizaremos varias estadísticas de diversos países, plataformas y rangos de edad, con el objetivo de entender mejor las tendencias y preferencias de los oyentes de música en streaming.
+
 ## :spiral_notepad: Estructura
+
+A
 
 ## :computer: Instalación y requisitos
 
+A
+
 ## :chart_with_upwards_trend: Resultados y conclusiones
+
+A
 
 ## :hand: Contribuciones
 
