@@ -14,13 +14,13 @@ Después creé las tablas dinámicas necesarias en la hoja de Análisis, y los g
   
 - En primer lugar, se muestran tres KPIs fundamentales para entender los datos: número de usuarios, subscripción más popular (de pago o gratis) y la media de minutos escuchados al día por persona.  
   
--A la izquierda se muestra la distribución por países de las plataformas de streaming más utilizadas y de los géneros musicales más escuchados.  
+- A la izquierda se muestra la distribución por países de las plataformas de streaming más utilizadas y de los géneros musicales más escuchados.  
   
-En el centro, primero exploramos el uso de las listas creadas por la plataforma de recomendación de canciones (discover weekly) y el porcentaje de canciones que los usuarios repiten, luego el uso de la lista de recomendación según edad, y por último, qué edad promedio escucha cada género musical.  
+- En el centro, primero exploramos el uso de las listas creadas por la plataforma de recomendación de canciones (discover weekly) y el porcentaje de canciones que los usuarios repiten, luego el uso de la lista de recomendación según edad, y por último, qué edad promedio escucha cada género musical.  
   
-A la derecha, queda representada la distribución de usuarios de pago respecto a los gratuitos, y finalmente se muestra la distribución de minutos de escucha según la hora del día (mañana, tarde o noche).  
+- A la derecha, queda representada la distribución de usuarios de pago respecto a los gratuitos, y finalmente se muestra la distribución de minutos de escucha según la hora del día (mañana, tarde o noche).  
   
-Finalmente, he incluido varios paneles de segmentación de datos para poder visualizar los efectos de cada dato en los demás, por ejemplo el país en el género musical, o la edad en la probabilidad de elegir una suscripción premium, gracias a las gráficas del dashboard.
+- Finalmente, he incluido varios paneles de segmentación de datos para poder visualizar los efectos de cada dato en los demás, por ejemplo el país en el género musical, o la edad en la probabilidad de elegir una suscripción premium, gracias a las gráficas del dashboard.
 
 ## :spiral_notepad: Estructura
 
